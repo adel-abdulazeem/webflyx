@@ -5,3 +5,4 @@
 
 - spice must flow 
 - fear is the mind-killer
+- Pyshco Alfred hitchcock
